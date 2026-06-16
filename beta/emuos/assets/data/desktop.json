@@ -41,7 +41,7 @@
 		"items": [{
 "name": "Windows 3.1",
   "title": "External Website",
-  "icon": "assets/images/icons/desktop/win31",
+  "icon": "assets/images/icons/desktop/Windows3.1",
   "link": "https://www.pcjs.org/software/pcx86/sys/windows/3.10/",
   "credits": "Author(s): PCjs",
   "width": 960,
