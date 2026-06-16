@@ -42,11 +42,12 @@
 "name": "Windows 3.1",
   "title": "External Website",
   "icon": "assets/images/icons/desktop/Windows3.1",
-  "link": "https://www.pcjs.org/software/pcx86/sys/windows/3.10?embed=1",
+  "link": "https://pieter.com",
   "credits": "Author(s): PCjs",
   "width": 960,
   "height": 734,
   "newtab": true,
+  "maximized": true,
   "shortcut": true,
   "share": true
 } ,{
