@@ -39,6 +39,17 @@
 		"height": 560,
 		"description": "Browser-based operating system simulations and parodies, including faithful recreations and playful tributes to classic Windows desktops such as <a href=\"https://98.js.org\" target=\"_blank\">98.js</a>, <a href=\"https://windows93.net\" target=\"_blank\">Windows 93</a>, <a href=\"https://windows96.net\" target=\"_blank\">Windows 96</a>, and a Windows XP simulator.",
 		"items": [{
+"name": "Windows 3.1",
+  "title": "External Website",
+  "icon": "assets/images/icons/desktop/win31",
+  "link": "https://www.pcjs.org/software/pcx86/sys/windows/3.10/",
+  "credits": "Author(s): PCjs",
+  "width": 960,
+  "height": 734,
+  "newtab": true,
+  "shortcut": true,
+  "share": true
+} ,{
 			"name": "98.js",
 			"title": "External Website",
 			"icon": "assets/images/icons/desktop/98.js",
@@ -83,18 +94,7 @@
 			"newtab": true,
 			"shortcut": true,
 			"share": true
-		} , {
-"name": "Windows 3.1",
-  "title": "External Website",
-  "icon": "assets/images/icons/desktop/win31",
-  "link": "https://www.pcjs.org/software/pcx86/sys/windows/3.10/",
-  "credits": "Author(s): PCjs",
-  "width": 960,
-  "height": 734,
-  "newtab": true,
-  "shortcut": true,
-  "share": true
-}]
+		}]
 
 	
 	} , {
