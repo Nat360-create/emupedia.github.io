@@ -46,7 +46,7 @@
   "credits": "Website: <a href=\"https://pieter.com\" target=\"_blank\">pieter.com</a><br />Author: <a href=\"https://pieter.com\" target=\"_blank\">Pieter</a>",
   "width": 960,
   "height": 713,
-  "newtab": true,
+  "target": "_blank",
   "maximized": true,
   "newtab": true,
   "shortcut": true,
